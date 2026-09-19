@@ -23,10 +23,9 @@ The study shows how a professional cyber tech can gather public information avai
 
 All activities (commands) were performed using kali linux which was running in a virtue machine (VM) for the footprinting and a widows PC as the host to scan the network having installed with the zenmap .
 
-** Activities included **
+ # *Activities included*
  - Network reconnaissance
   - Port scanning 
  - Zenmap installation
 
  ## 🛠️  Tools used
- 
