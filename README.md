@@ -2,6 +2,7 @@
 
 # Project information
 |🎯 Component| 🚀 Details|
+|-------------|-----------|
 |program | Cybersecurity internship at **Networkwalks**|
 |week | 02|
 |module | W2-PM1-FOOTPRINTING and 
@@ -11,5 +12,5 @@
 Target | Networkwalks.com
          My own LAN lab |
 Permission secured | yes|
-         
+
 |                           
